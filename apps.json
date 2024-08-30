@@ -1,0 +1,14 @@
+{
+    "apps": [
+        {
+            "name": "Quill",
+            "version": "1.0.0",
+            "url": "https://c59462adb7ca9a6668173865634199e2.r2.cloudflarestorage.com/skrift/quill.exe"
+        },
+        {
+            "name": "Resonance",
+            "version": "1.0.0",
+            "url": "https://c59462adb7ca9a6668173865634199e2.r2.cloudflarestorage.com/skrift/resonance.exe"
+        }
+    ]
+}
