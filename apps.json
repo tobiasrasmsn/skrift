@@ -4,12 +4,14 @@
         {
             "name": "Quill",
             "version": "1.0.2",
-            "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/quill.exe"
+            "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/apps/quill.exe",
+            "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/quill.png"
         },
         {
             "name": "Resonance",
             "version": "1.0.1",
-            "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/resonance.exe"
+            "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/apps/resonance.exe",
+            "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/resonance.png"
         }
     ]
 }
