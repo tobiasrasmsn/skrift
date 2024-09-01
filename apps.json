@@ -1,4 +1,5 @@
 {
+    "suiteVersion": "1.0.1",
     "apps": [
         {
             "name": "Quill",
