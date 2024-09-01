@@ -16,6 +16,14 @@
             "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/resonance.png",
             "iconPath": "resonance.png",
             "description": "Content update test. Advanced voiceover generation tool. Creates high-quality audio narration for documents produced by Quill. Utilizes external services like ElevenLabs or local processing for flexible, efficient voiceover production."
+        },
+        {
+            "name": "Nexus",
+            "version": "1.0.0",
+            "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/apps/resonance.exe",
+            "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/nexus.png",
+            "iconPath": "nexus.png",
+            "description": "Content update test. Advanced voiceover generation tool. Creates high-quality audio narration for documents produced by Quill. Utilizes external services like ElevenLabs or local processing for flexible, efficient voiceover production."
         }
     ]
 }
