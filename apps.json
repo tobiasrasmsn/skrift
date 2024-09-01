@@ -3,7 +3,7 @@
     "apps": [
         {
             "name": "Quill",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/apps/quill.exe",
             "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/quill.png",
             "iconPath": "quill.png",
