@@ -1,9 +1,9 @@
 {
-    "suiteVersion": "2.2.0",
+    "suiteVersion": "2.2.1",
     "apps": [
         {
             "name": "Quill",
-            "version": "2.0.8",
+            "version": "2.0.9",
             "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/apps/quill.exe",
             "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/quill.png",
             "iconPath": "quill.png",
