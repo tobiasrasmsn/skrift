@@ -1,5 +1,5 @@
 {
-    "suiteVersion": "2.2.2",
+    "suiteVersion": "2.2.3",
     "apps": [
         {
             "name": "Quill",
@@ -11,7 +11,7 @@
         },
         {
             "name": "Resonance",
-            "version": "1.1.0",
+            "version": "1.1.2",
             "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/apps/resonance.exe",
             "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/resonance.png",
             "iconPath": "resonance.png",
