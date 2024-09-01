@@ -5,13 +5,17 @@
             "name": "Quill",
             "version": "1.0.2",
             "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/apps/quill.exe",
-            "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/quill.png"
+            "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/quill.png",
+            "iconPath": "quill.png",
+            "description": "AI-powered documentary script generator. Creates scripts up to 5 hours long using OpenAI, Claude, or local AI models. Formats documents to seamlessly integrate with other Skrift suite programs."
         },
         {
             "name": "Resonance",
             "version": "1.0.1",
             "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/apps/resonance.exe",
-            "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/resonance.png"
+            "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/resonance.png",
+            "iconPath": "resonance.png",
+            "description": "Advanced voiceover generation tool. Creates high-quality audio narration for documents produced by Quill. Utilizes external services like ElevenLabs or local processing for flexible, efficient voiceover production."
         }
     ]
 }
