@@ -1,9 +1,9 @@
 {
-    "suiteVersion": "2.2.7",
+    "suiteVersion": "2.2.8",
     "apps": [
         {
             "name": "Quill",
-            "version": "2.1.2",
+            "version": "2.1.3",
             "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/apps/quill.exe",
             "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/quill.png",
             "iconPath": "quill.png",
@@ -11,7 +11,7 @@
         },
         {
             "name": "Resonance",
-            "version": "1.1.6",
+            "version": "1.1.7",
             "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/apps/resonance.exe",
             "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/resonance.png",
             "iconPath": "resonance.png",
