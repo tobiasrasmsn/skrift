@@ -2,12 +2,12 @@
     "apps": [
         {
             "name": "Quill",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/quill.exe"
         },
         {
             "name": "Resonance",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/resonance.exe"
         }
     ]
