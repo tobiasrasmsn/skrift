@@ -27,11 +27,11 @@
         },
         {
             "name": "Babel",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "url": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/apps/resonance.exe",
             "icon": "https://raw.githubusercontent.com/tobiasrasmsn/skrift/main/icons/babel.png",
             "iconPath": "babel.png",
-            "description": "High-accuracy AI-powered translation tool designed for large documents. Babel automatically translates scripts, voiceover text, and other content produced within the Skrift suite into multiple languages while preserving context, tone, and formatting. Supports both cloud-based and local processing to deliver fast, reliable translations for global audiences."
+            "description": "Content Update. High-accuracy AI-powered translation tool designed for large documents. Babel automatically translates scripts, voiceover text, and other content produced within the Skrift suite into multiple languages while preserving context, tone, and formatting. Supports both cloud-based and local processing to deliver fast, reliable translations for global audiences."
         }
     ]
 }
